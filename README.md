@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3201-distribute-candies-among-children-ii) |
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
