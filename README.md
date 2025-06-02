@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
 | [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
