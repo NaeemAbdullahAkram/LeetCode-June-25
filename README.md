@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
 | [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
