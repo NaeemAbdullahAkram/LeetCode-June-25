@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1046-max-consecutive-ones-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1833-find-the-highest-altitude](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
