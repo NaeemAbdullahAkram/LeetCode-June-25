@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Hash Table
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
