@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
