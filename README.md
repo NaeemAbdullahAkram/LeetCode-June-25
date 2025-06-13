@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1046-max-consecutive-ones-iii) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
