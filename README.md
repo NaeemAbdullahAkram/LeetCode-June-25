@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
