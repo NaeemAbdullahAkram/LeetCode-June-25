@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
 |  |
 | ------- |
