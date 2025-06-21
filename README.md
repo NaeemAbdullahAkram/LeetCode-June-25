@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2470-removing-stars-from-a-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2428-equal-row-and-column-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
 |  |
 | ------- |
