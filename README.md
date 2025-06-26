@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2470-removing-stars-from-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union Find
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0969-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
