@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2470-removing-stars-from-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2470-removing-stars-from-a-string) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
