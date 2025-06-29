@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-find-the-highest-altitude](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1046-max-consecutive-ones-iii) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
