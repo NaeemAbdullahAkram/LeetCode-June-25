@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0135-candy) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0594-longest-harmonious-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0594-longest-harmonious-subsequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NaeemAbdullahAkram/LeetCode-June-25/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
